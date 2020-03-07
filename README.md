@@ -2,6 +2,7 @@
 
 | Status     | Issues | Project |
 | :---------:  | :------: | :-------: |
+| **Open** | [Handle modification of application status from INVALID to anything else](https://github.com/WikipediaLibrary/TWLight/pull/429) | [Library Card Platform](https://github.com/WikipediaLibrary/TWLight) |
 | **Open** | [Provide error message when navigating to Not Available resources](https://github.com/WikipediaLibrary/TWLight/pull/427) | [Library Card Platform](https://github.com/WikipediaLibrary/TWLight) |
 | **Open** | [Add 'Back-to-top' button for partners list page](https://github.com/WikipediaLibrary/TWLight/pull/410) | [Library Card Platform](https://github.com/WikipediaLibrary/TWLight) |
 | **Open** | [Add condition to check user is current coordinator](https://github.com/WikipediaLibrary/TWLight/pull/406) | [Library Card Platform](https://github.com/WikipediaLibrary/TWLight) |
