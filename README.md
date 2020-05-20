@@ -1,4 +1,4 @@
-# My Contributions to Open Source Projects ordered by latest
+# Contributions in Open Source Projects
 
 ## [Library Card Platform](https://github.com/WikipediaLibrary/TWLight)
 
@@ -12,12 +12,17 @@
 - [Show Error on 'Mark as Sent' page for automatic-send partners](https://github.com/WikipediaLibrary/TWLight/pull/405)
 - [Add placeholder text to Review filters](https://github.com/WikipediaLibrary/TWLight/pull/404)
 
-## [Video Cut tool](https://github.com/gopavasanth/video-cut-tool) |
+## [Video Cut tool](https://github.com/gopavasanth/video-cut-tool)
 
 - [Add function to handle file name given as url](https://gerrit.wikimedia.org/r/c/labs/tools/VideoCutTool/+/573354)
 - [Change 'VideoTrim Settings' position above the 'Step2'](https://gerrit.wikimedia.org/r/c/labs/tools/VideoCutTool/+/569217)
 
 
-## HashTagProject
+## [HashTags](https://github.com/WikipediaLibrary/hashtags)
 
-## Find Around You
+- [wildcard project search](https://github.com/WikipediaLibrary/hashtags/pull/15)
+- [Add Regex Search](https://github.com/WikipediaLibrary/hashtags/pull/10)
+
+## [Find Around You](https://github.com/Ritsyy/findAroundYou)
+
+- [upgrade django and gunicorn version](https://github.com/Ritsyy/findAroundYou/pull/11)
