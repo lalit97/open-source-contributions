@@ -2,6 +2,8 @@
 
 ## [Library Card Platform](https://github.com/WikipediaLibrary/TWLight)
 
+- [Show recently filed applications and their date](https://github.com/WikipediaLibrary/TWLight/pull/529)
+- [Remove duplicate Test class](https://github.com/WikipediaLibrary/TWLight/pull/498)
 - [Provide recent applications on review page](https://github.com/WikipediaLibrary/TWLight/pull/453)
 - [Add a new application field for waitlist status](https://github.com/WikipediaLibrary/TWLight/pull/446)
 - [Handle modification of application status from INVALID to anything else](https://github.com/WikipediaLibrary/TWLight/pull/429)
@@ -16,7 +18,6 @@
 
 - [Add function to handle file name given as url](https://gerrit.wikimedia.org/r/c/labs/tools/VideoCutTool/+/573354)
 - [Change 'VideoTrim Settings' position above the 'Step2'](https://gerrit.wikimedia.org/r/c/labs/tools/VideoCutTool/+/569217)
-
 
 ## [HashTags](https://github.com/WikipediaLibrary/hashtags)
 
